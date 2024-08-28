@@ -1,6 +1,6 @@
 #### Figma File
 
-[MixMaster Design](https://www.figma.com/community/file/1255860657910062828)
+[Mix & Mingle Design](https://www.figma.com/community/file/1255860657910062828)
 
 ## Steps
 
@@ -178,7 +178,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className='nav-center'>
-        <span className='logo'>MixMaster</span>
+        <span className='logo'>Mix & Mingle</span>
         <div className='nav-links'>
           <NavLink to='/' className='nav-link'>
             Home
@@ -208,7 +208,7 @@ export default Navbar;
 - no name collisions
 - apply javascript logic
 - [Styled Components Docs](https://styled-components.com/)
-- [Styled Components Course](https://www.udemy.com/course/styled-components-tutorial-and-project-course/?referralCode=9DABB172FCB2625B663F)
+
 
 ```sh
 npm install styled-components
@@ -268,7 +268,7 @@ const Navbar = () => {
   return (
     <Wrapper>
       <div className='nav-center'>
-        <span className='logo'>MixMaster</span>
+        <span className='logo'>Mix & Mingle</span>
         <div className='nav-links'>
           <NavLink to='/' className='nav-link'>
             Home
@@ -349,7 +349,7 @@ const About = () => {
     <Wrapper>
       <h3>About Us</h3>
       <p>
-        Introducing "MixMaster," the ultimate party sidekick app that fetches
+        Introducing "Mix & Mingle," the ultimate party sidekick app that fetches
         cocktails from the hilarious Cocktails DB API. With a flick of your
         finger, you'll unlock a treasure trove of enchanting drink recipes
         that'll make your taste buds dance and your friends jump with joy. Get
